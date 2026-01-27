@@ -1,0 +1,19 @@
+{
+  "name": "file-sync",
+  "version": "1.0.0",
+  "description": "A utility that compares two directories and synchronizes files between them",
+  "main": "file-sync.js",
+  "scripts": {
+    "start": "node file-sync.js",
+    "sync": "node file-sync.js"
+  },
+  "keywords": [
+    "file",
+    "sync",
+    "synchronization",
+    "directory",
+    "compare"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

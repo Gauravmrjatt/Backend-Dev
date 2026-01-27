@@ -1,0 +1,13 @@
+# Sample Log File for Testing
+
+2023-10-15T10:30:45.123Z INFO Application started successfully
+2023-10-15T10:31:22.456Z DEBUG Processing user request for ID: 12345
+2023-10-15T10:32:10.789Z WARN Cache miss for resource: /api/users/123
+2023-10-15T10:33:05.012Z ERROR Database connection failed: Connection timeout
+2023-10-15T10:34:15.345Z INFO Retrying database connection...
+2023-10-15T10:35:20.678Z ERROR Failed to connect to database after 3 attempts
+2023-10-15T10:36:10.901Z DEBUG Memory usage: 125MB
+2023-10-15T10:37:05.234Z INFO User authentication successful for user: john_doe
+2023-10-15T10:38:15.567Z WARN Deprecated API endpoint accessed: /v1/users
+2023-10-15T10:39:25.890Z ERROR Permission denied for user: guest_user
+2023-10-15T10:40:30.123Z INFO Application shutdown initiated
